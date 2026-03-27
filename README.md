@@ -11,5 +11,4 @@
 | **Super Soft Copper Wire Box** | Wiring | 5.86 | 1 | 5.86 | ✅ Yes | [Link](https://www.aliexpress.us/item/3256806164419666.html) | AliExpress |
 | **1.8" TFT display** | Display | 3.89 | 1 | 3.89 | ✅ Yes | [Link](https://www.aliexpress.us/item/3256804553736450.html) | AliExpress |
 | **LOLIN C3 mini** | Computing | 5.47 | 1 | 5.47 | ✅ Yes | [Link](https://www.aliexpress.us/item/3256804553736450.html) | AliExpress |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | **GRAND TOTAL** | | | | **41.67** | | | |
