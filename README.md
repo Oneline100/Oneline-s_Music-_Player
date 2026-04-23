@@ -38,5 +38,7 @@ An AI Music Display for Spotify and Gemini with a volume wheel.
 
 ## Firmware
 > [!NOTE]
->This is not done yet! Check back for updates.
-> 
+> This code has not been tested, so errors may occour.
+
+This is 2 part firmware solution that will both control music and get AI responses for the computer that show on the screen of the music player.
+One is python for the Gemini AI api and Spotify will be contorled by the music player. 
