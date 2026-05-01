@@ -1,4 +1,4 @@
-# Oneline Music Display
+<img width="794" height="442" alt="image" src="https://github.com/user-attachments/assets/2884dad0-380a-4bc6-844d-2901a97c79d2" /># Oneline Music Display
 An AI Music Display for Spotify and Gemini with a volume wheel.  
 
 ## What can it do?
@@ -30,7 +30,7 @@ An AI Music Display for Spotify and Gemini with a volume wheel.
 | **Solder Wick Braid with Flux** | Soldering | 4.48 | 1 | 4.48 | ❌ No | [Link](https://www.amazon.com/gp/product/B0F4PNVHCL) | Amazon |
 | **Lead Free Solder Wire** | Soldering | 7.99 | 1 | 7.99 | ❌ No | [Link](https://www.amazon.com/gp/product/B0F8W39725) | Amazon |
 | **Wire Strippers** | Wiring | 5.99 | 1 | 5.99 | ❌ No | [Link](https://www.amazon.com/gp/product/B0FRZ7791X) | Amazon |
-| **Heat Shrink Tubing Kit** | Wiring | 7.99 | 1 | 5.09 | ✅ Yes | [Link](https://www.amazon.com/Ginsco-580-pcs-Assorted-Sleeving/dp/B01MFA3OFA) | Amazon |
+| **Heat Shrink Tubing Kit** | Wiring | 5.49 | 1 | 5.49 | ✅ Yes | [Link](https://www.amazon.com/Ginsco-580-pcs-Assorted-Sleeving/dp/B01MFA3OFA) | Amazon |
 | **Super Soft Copper Wire Box** | Wiring | 5.86 | 1 | 5.86 | ✅ Yes | [Link](https://www.aliexpress.us/item/3256806164419666.html) | AliExpress |
 | **1.8" TFT display** | Display | 3.89 | 1 | 3.89 | ✅ Yes | [Link](https://www.aliexpress.us/item/3256804553736450.html) | AliExpress |
 | **LOLIN C3 mini** | Computing | 5.47 | 1 | 5.47 | ✅ Yes | [Link](https://www.aliexpress.us/item/3256804553736450.html) | AliExpress |
